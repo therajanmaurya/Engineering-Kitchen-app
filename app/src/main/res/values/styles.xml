@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
 
     <style name="myAppTheme" parent="Theme.AppCompat.Light">
         <item name="colorPrimary">@color/primaryColor</item>
@@ -13,4 +15,10 @@
         <item name="color">@android:color/black</item>
     </style>
 
+=======
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ffc05d68</item>
+    </style>
+>>>>>>> 2c71a846d199e39ae8a0098c89ee690b2a46772c
 </resources>
